@@ -5977,6 +5977,7 @@ font-size: 15px;
     width: 30px !important;
     height: 30px !important;
   }
+  
   .popup .body ul li .forcast_date {
     display: grid;
     position: absolute;
@@ -5993,6 +5994,7 @@ font-size: 15px;
   }
   .popup .body ul li p {
     margin: 0 !important;
+    color: black;
   }
   .other-banners {
     height: 70vh !important;
