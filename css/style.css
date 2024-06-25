@@ -2547,12 +2547,12 @@ hr {
     line-height: 1
 }
 .rooms3 .room-label {
-    -webkit-writing-mode: tb-rl;
+    /* -webkit-writing-mode: tb-rl;
     -ms-writing-mode: tb-rl;
-    writing-mode: tb-rl;
-    -webkit-transform: rotate(-180deg);
+    writing-mode: tb-rl; */
+    /* -webkit-transform: rotate(-180deg);
     -ms-transform: rotate(-180deg);
-    transform: rotate(-180deg);
+    transform: rotate(-180deg); */
     margin: 0
 }
 .rooms3 .room-wrap {
@@ -6081,4 +6081,8 @@ font-size: 15px;
         bottom: 43%;
         z-index: 5;
     }
+  }
+  .icon1{
+    height: 30px;
+    width: 30px;
   }
