@@ -6064,21 +6064,31 @@ font-size: 15px;
       }
       
   }
+  @media screen and (min-height : 600px) and (min-width:991px) {
+    .booking-wrapper {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        bottom:4%;
+        z-index: 5;
+    }
+  }
+ 
   @media screen and (min-height : 750px) and (min-width:991px) {
     .booking-wrapper {
         position: absolute;
         left: 0;
         width: 100%;
-        bottom:20%;
+        bottom:19%;
         z-index: 5;
-    }
+
   }
   @media screen and (min-height : 1000px) and (min-width:991px) {
     .booking-wrapper {
         position: absolute;
         left: 0;
         width: 100%;
-        bottom: 43%;
+        bottom: 49%;
         z-index: 5;
     }
   }
