@@ -917,7 +917,7 @@
 .ti-vimeo:before {
 	content: "\e729";
 }
-.ti-twitter:before {
+.ti-facebook:before {
 	content: "\e72a";
 }
 .ti-time:before {
@@ -1016,7 +1016,7 @@
 .ti-vimeo-alt:before {
 	content: "\e74a";
 }
-.ti-twitter-alt:before {
+.ti-facebook-alt:before {
 	content: "\e74b";
 }
 .ti-tumblr-alt:before {
